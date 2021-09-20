@@ -1,0 +1,46 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+body{
+    background-size: cover;
+}
+ 
+#song
+{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.disk_left{
+height: 100px;
+width: 200px;
+float: left;
+border-radius: 100px;
+margin: 20px;
+}
+
+.disk_right{
+    height: 100px;
+    width: 200px;
+    float: right;
+    border-radius: 100px;
+    margin: 20px;
+    }
+    
+
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+}
